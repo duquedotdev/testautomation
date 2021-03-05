@@ -1,0 +1,4 @@
+runner\RunnerTest.class
+steps\Hooks.class
+steps\insereProdutoNoCarrinho.class
+pages\Homepage.class

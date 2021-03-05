@@ -1,0 +1,3 @@
+com\aphelium\testautomation\CommonsBasePage.class
+com\aphelium\testautomation\WebDriverWaitFactory.class
+com\aphelium\testautomation\DriveFactory.class
